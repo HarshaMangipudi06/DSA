@@ -19,4 +19,5 @@ int main(){
     for(int x : a) cout << x << " ";
     cout << "\n";
 return 0;
+
 }
